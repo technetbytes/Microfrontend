@@ -21,13 +21,11 @@ The other two microfrontend about and contact are served on localhost 8080 and 8
 ## Screenshots
 
 ### Screenshot 1: Main Interface
-![Main Interface](./screenshots/01.jpeg)
+![Main Interface](./screenshots/01.JPG)
 
 ### Screenshot 2: Purchase Order
-![User Dashboard](./screenshots/02.jpeg)
+![User Dashboard](./screenshots/02.JPG)
 
 ### Screenshot 3: Company Detail
-![Settings Page](./screenshots/03.jpeg)
+![Settings Page](./screenshots/03.JPG)
 
-### Screenshot 4: User Deactivating Toast
-![Notification Configuration](./screenshots/04.jpeg)
