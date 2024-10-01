@@ -1,0 +1,52 @@
+.purchase-order {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .order-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .order-table th, .order-table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+  }
+  
+  .order-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .order-table td {
+    text-align: center;
+  }
+  
+  .btn-edit {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-cancel {
+    padding: 8px 12px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-add-order {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  

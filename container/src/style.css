@@ -1,0 +1,24 @@
+/* Header.css */
+header {
+  background-color: #333; /* Dark background */
+  padding: 15px;
+}
+
+nav ul {
+  list-style: none; /* Remove bullet points */
+  display: flex; /* Align items in a row */
+  gap: 20px; /* Space between each link */
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li a {
+  text-decoration: none; /* Remove underline */
+  color: white; /* White text */
+  font-size: 18px;
+  transition: color 0.3s ease; /* Smooth transition on hover */
+}
+
+nav ul li a:hover {
+  color: #f1c40f; /* Change color to yellow on hover */
+}
